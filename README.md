@@ -43,21 +43,37 @@ Procedure -
 10.	Navigated through the /system, /vendor, and /product directories to examine the Android system file structure. 
 11.	Recorded the observed system architecture, storage, filesystem, and partition-related information for analysis.
 
-Commands Used
+Commands Used -
 adb devices
+
 adb shell
+
 getprop ro.build.version.release
+
 getprop ro.build.version.sdk
+
 getprop ro.product.cpu.abi
+
 uname -a
+
 getprop ro.boot.slot_suffix
+
 getprop ro.boot.verifiedbootstate
+
 cat /proc/cmdline
+
 df -h
+
 cat /proc/mounts
+
 cat /proc/partitions
+
 ls -l /dev/block/by-name
+
 ls /system
+
 ls /vendor
+
 ls /product
+
 exit
