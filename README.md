@@ -4,6 +4,7 @@ Aim - To understand Android Debug Bridge (ADB) using WebADB and perform basic An
 
 Description - This experiment demonstrates basic Android device interaction through a browser-based ADB interface. The practical includes connecting an authorized Android device, identifying the device using ADB, accessing the Android shell, inspecting installed packages, launching the Settings activity, and navigating the Android file system.
 
+
 Exp No. 2 — Android Studio Installation and SDK Configuration
 
 Aim - To install Android Studio and verify the Android SDK and required SDK tools for Android application development.
