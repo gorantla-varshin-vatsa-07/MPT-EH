@@ -50,6 +50,7 @@ adb devices
 adb shell
 
 getprop ro.build.version.release
+
 getprop ro.build.version.sdk
 
 getprop ro.product.cpu.abi
