@@ -11,10 +11,10 @@ Aim - To install Android Studio and verify the Android SDK and required SDK tool
 
 Tools -
 
-Platform - Windows
-IDE	- Android Studio
-Android SDK	- Installed
-SDK Platform	- Android 17 (API 37)
+Platform - Windows,
+IDE	- Android Studio,
+Android SDK	- Installed,
+SDK Platform	- Android 17 (API 37),
 Android Emulator	- Installed
 
 Procedure -
