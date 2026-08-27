@@ -44,12 +44,12 @@ Procedure -
 11.	Recorded the observed system architecture, storage, filesystem, and partition-related information for analysis.
 
 Commands Used -
+
 adb devices
 
 adb shell
 
 getprop ro.build.version.release
-
 getprop ro.build.version.sdk
 
 getprop ro.product.cpu.abi
